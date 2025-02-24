@@ -29,26 +29,26 @@ body {
     width: 38%; 
 }
 .apresentacao__conteudo{
-    width: 615;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 4px;
 }
 
 .apresentacao__conteudo__texto{
-    font-size: 30px;
+    font-size: 2.25rem;
     font-family: "Sigmar", serif;
     font-weight: 400;
     font-style: normal;
 }
 
 .apresentacao__conteudo__texto__paragrafoprimeiro{
-    font-size: 25px;
+    font-size: 2.3rem;
    
 }
 
 .apresentacao__conteudo__texto__paragrafosegundo {
-    font-size: 25px;
+    font-size: 2.3rem;
     font-weight: 600;  
 }
 .apresentacao__links{
@@ -60,10 +60,11 @@ body {
     background-color: darkblue; 
     color: #f6f6f6;
     width: 200px;
-    font-size: 20px;
+    font-size: 1.25rem;
     text-align: center;
     border-radius: 16px;
-    padding: 21.5px 0px;
+    padding: 10px 0px;
     text-decoration: none;
     font-family: "Sigmar", serif;
 }
+
